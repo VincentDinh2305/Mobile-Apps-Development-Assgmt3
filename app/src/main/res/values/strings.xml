@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DinhHoangVietPhuong_COMP304Sec001_Lab03</string>
+    <string name="help">Press a button to start drawing!</string>
+    <string name="start">Start</string>
+    <string name="clear">Clear</string>
+    <string name="left">Left</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="right">Right</string>
+    <string name="drawing_area">Drawing Area</string>
+    <string name="clear_canvas">Clear Canvas</string>
+</resources>
